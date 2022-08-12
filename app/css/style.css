@@ -70,3 +70,29 @@
         right: 0;
         bottom: 0;
     }
+    
+
+
+    .goBack{
+        left: 40%;
+        top: 5%;
+        border-radius: 50%;
+        /* display: block; */
+        background-color: #D9D9D9;
+    }
+    .goBack:hover{
+        background-color: #999999;
+    }
+    .goBack:active{
+        background-color: #6e6e6e;
+    }
+    svg {
+        width: 15px;
+        height: 15px;
+        /* border-color: blue;
+        background-color: yellow; */
+      }
+
+      .form-wrap{
+        position: relative;
+      }
